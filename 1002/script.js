@@ -6,4 +6,4 @@ var raio = parseFloat(input) // Converteu para float
 
 var area = PI * Math.pow(raio, 2)
 
-console.log(`A = ${area}`)
+console.log(`A= ${area.toFixed(4)}`)
